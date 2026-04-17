@@ -61,7 +61,7 @@ noBtn.onmouseover = () => {
 
 // Typing love message
 function typeLove() {
-  const msg = "Will you go on a date. Just us watching the sunset while you fill the air with your nonstop talks and I listen to them quietly, capturing you smiling in my eyes and keeping you in my hug so that you feel safe while i give soft kisses and make you eat ice-cream...MISS SUPARNA??? 💖";
+  const msg = "Will you go on a date with Me. Just us watching the sunset while you fill the air with your nonstop talks and I listen to them quietly, capturing you smiling in my eyes and sharing laughs and having your favourite icecream...MISS Priyankaaaa??? 💖";
   loveText.innerHTML = ""; // reset
   let j=0;
   function t() {
